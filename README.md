@@ -1,8 +1,9 @@
 # Elist-Portfolio
 Founded in 2018, Elist is a global e-commerce company specializing in consumer electronics, operating across both web and mobile platforms. The company reaches customers through a diversified marketing mix, including email campaigns, search engine optimization (SEO), and affiliate partnerships. Over time, Elist has scaled its product offerings, with strong demand for leading brands such as Apple, Samsung, and ThinkPad.
 
-Key metrics : 
 The analysis uncovers actionable insights into Elist’s revenue drivers, customer purchasing patterns, and geographic performance, identifying areas of over- and under-performance across the business. These findings inform decisions across operations, marketing, and sales. These insights were derived from Elist’s core datasets spanning orders, customers, products, and geographic information.
+
+Insights and recommendations provided based on the following key metrics :
 
 **Average Order Value** : The AOV view shows clear variation across product categories, with premium products consistently driving higher order values compared to lower-priced items. Repeat customers also tend to place higher-value orders than first-time buyers, indicating a positive relationship between customer tenure and spend.
 
