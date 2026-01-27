@@ -16,3 +16,7 @@ Insights and recommendations provided based on the following key metrics :
 Together, these insights highlight opportunities to grow revenue through a combination of premium product focus, customer retention strategies, and diversified product performance, rather than relying solely on volume-driven growth.
 
 <img width="1750" height="1180" alt="image" src="https://github.com/user-attachments/assets/8e0d10c8-304b-4266-9227-ab79c62be65b" />
+
+The Overall Region dashboard can be found here.[https://public.tableau.com/app/profile/swathi.bhaskaran/viz/Elist_viz/USD_Region?publish=yes](url)
+
+The comparison of Overall product and the Average Order Value product (in USD) and be found here.[https://public.tableau.com/app/profile/swathi.bhaskaran/viz/Elist_viz/Overall_product?publish=yes](url)
