@@ -14,3 +14,5 @@ Insights and recommendations provided based on the following key metrics :
 **Apple Product Performance** : Apple products consistently outperform other brands in revenue contribution despite representing a smaller share of total orders.
 
 Together, these insights highlight opportunities to grow revenue through a combination of premium product focus, customer retention strategies, and diversified product performance, rather than relying solely on volume-driven growth.
+
+<img width="1750" height="1180" alt="image" src="https://github.com/user-attachments/assets/8e0d10c8-304b-4266-9227-ab79c62be65b" />
